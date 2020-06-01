@@ -23,7 +23,7 @@ echo "5.>KELUAR"
 read -p "[?]PILIH : " pil
 if [[ $pil -eq 1 ]]; then
 sleep 1
-python2 Limt.py
+python2 Limit.py
 elif [[ $pil -eq 2 ]]; then
 sleep 1
 python2 vip.py
