@@ -3,7 +3,7 @@
 
 sleep 1
 clear
-figlet -f "HackLimit" | lolcat
+figlet "HackLimit" 
 echo -e "\e[1;34m     #___________________________________________________#"
 echo -e "\e[1;35m     |        Autor : Cyber Limit                        |"
 echo -e "\e[1;35m     |      My team : wisnu|panjull                      |"
