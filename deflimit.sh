@@ -19,7 +19,7 @@ echo "NOTE : Hargai yang membuat!"
 echo -e "\e[1;31mMASUKAN LINK TARGET LU : "
 read target 
 sleep 1
-echo -e "\e[1;32mMASUKAN FILE KAMU : "
+echo -e "\e[1;32mMASUKAN FILE LU : "
 read file
 sleep 1
 echo "Please Wait..."
